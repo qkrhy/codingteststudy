@@ -13,3 +13,5 @@ if len(password) >= 6 and len(password) <= 20:
         print("Valid")
     
     print("Invalid")
+    
+# 문제 풀이 실패
